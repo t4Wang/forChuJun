@@ -23,12 +23,13 @@
 ![创建仓库](https://raw.githubusercontent.com/t4Wang/forChuJun/main/docs/imgs/gitpageSetting.jpg)
 
 ## 4. 进入编辑主页
-这里是markdown格式的编辑方法，markdown有丰富的语法，可以支持显示你的文章，也很简单易学，编辑完后记得下面commit changes保存
+这里是markdown格式的[编辑方法](https://github.com/t4Wang/forChuJun/blob/main/docs/markdownUsage.md)，markdown有丰富的语法，可以支持显示你的文章，也很简单易学，编辑完后记得下面commit changes保存
 
 ![创建仓库](https://raw.githubusercontent.com/t4Wang/forChuJun/main/docs/imgs/editingIndex.jpg)
 
 ![提交保存](https://raw.githubusercontent.com/t4Wang/forChuJun/main/docs/imgs/commitChanges.jpg)
 
+---
 ## 5. 附录
 
 ### 如何插入图片
@@ -40,6 +41,14 @@
 ![上传](https://raw.githubusercontent.com/t4Wang/forChuJun/main/docs/imgs/uploadFiles.jpg)
 ![拖拽](https://raw.githubusercontent.com/t4Wang/forChuJun/main/docs/imgs/dropFiles.jpg)
 ![提交保存](https://raw.githubusercontent.com/t4Wang/forChuJun/main/docs/imgs/commitChanges.jpg)
+
+### 如何编辑文件
+1. 编辑原有文件
+![编辑](https://raw.githubusercontent.com/t4Wang/forChuJun/main/docs/imgs/editFile.jpg)
+2. 新建文件
+![新建](https://raw.githubusercontent.com/t4Wang/forChuJun/main/docs/imgs/createNewFile.jpg)
+![编辑内容](https://raw.githubusercontent.com/t4Wang/forChuJun/main/docs/imgs/editingContent.jpg)
+3. 最后记得保存**所有修改操作最后都记得提交一下保存**
 
 ### 扩展阅读，如果不满足于默认的主题
 [一些教程仅供参考1](https://cyzus.github.io/2015/06/21/github-build-blog/)
